@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 - Muhammad Khalil, your Devlosopher 😊
 - 🔭 I’m currently a Full Stack Engineer
-- 🌱 I’m currently working with JS/TS<NestJS, ReactJS and React Native>
+- 🌱 I’m currently working with JS/TS<NestJS, NextJS, ReactJS and React Native>
 - 💬 Ask me about Love ❤️, Communities, NestJS, ReactJS & React Native and Jollof
 - 📫 How to reach me: here ofcourse & pkhalisoft@gmail.com
 - 😄 Pronouns: He
