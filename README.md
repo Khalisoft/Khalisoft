@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- Muhammad Khalil, your Devlosopher 😊
+- Muhammad Khalilullah Uthman, your Devlosopher 😊
 - 🔭 I’m currently a Full Stack Engineer (Backend sweet die)
 - 🌱 I’m currently working with JS/TS<NodeJS (bare), ExpressJS, NestJS, NextJS, ReactJS and React Native>
 - 💬 Ask me about Love ❤️, Communities, JS, NestJS, ReactJS & React Native and Jollof
